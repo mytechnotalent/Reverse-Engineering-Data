@@ -22,6 +22,11 @@ This chapter covers the Central Limit Theorem within Data Science.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the FREE pdf book.
 
+## 01-EDA: Exploratory Data Analysis
+This chapter covers an extensive exploratory data analysis of the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb) to read the FREE pdf book.
+
 ## UNDER DEVELOPMENT
 
 ## License
