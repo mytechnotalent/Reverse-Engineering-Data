@@ -27,6 +27,11 @@ This chapter covers an extensive exploratory data analysis of the Penguins datas
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb) to read the FREE pdf book.
 
+## 02-Clustering: Clustering
+This chapter covers an extensive KMeans and PCA clustering within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE pdf book.
+
 ## UNDER DEVELOPMENT
 
 ## License
