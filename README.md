@@ -32,6 +32,11 @@ This chapter covers an extensive KMeans and PCA clustering within the Penguins d
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE pdf book.
 
+## 03-SLR-LR: Simple Linear Regression - Linear Relationship
+This chapter covers simple Linear Regression utilizing a single linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the FREE pdf book.
+
 ## UNDER DEVELOPMENT
 
 ## License
