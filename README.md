@@ -37,6 +37,21 @@ This chapter covers simple Linear Regression utilizing a single linear feature w
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the FREE pdf book.
 
+## 04-SLR-NLR: Simple Linear Regression - Non-Linear Relationship
+This chapter covers simple Linear Regression utilizing a single non-linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb) to read the FREE pdf book.
+
+## 05-SLR-FLF: Simple Linear Regression - Fitting Linear Feature
+This chapter covers simple Linear Regression fitting a single linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb) to read the FREE pdf book.
+
+## 06-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature
+This chapter covers simple Linear Regression fitting a single non-linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb) to read the FREE pdf book.
+
 ## UNDER DEVELOPMENT
 
 ## License
