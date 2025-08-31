@@ -32,10 +32,46 @@ This chapter covers an extensive KMeans and PCA clustering utilizing the Penguin
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE pdf book.
 
-## 03-LR: Logistic Regression
-This chapter covers an extensive Logistic Regression machine learning model development utilizing the Cyber Security Attacks dataset.
+## 3-SLR-LR: Simple Linear Regression - Linear Relationship
+This chapter covers simple Linear Regression utilizing a single linear feature within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the FREE pdf book.
+
+## 04-SLR-NLR: Simple Linear Regression - Non-Linear Relationship
+This chapter covers simple Linear Regression utilizing a single non-linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb) to read the FREE pdf book.
+
+## 05-SLR-FLF: Simple Linear Regression - Fitting Linear Feature
+This chapter covers simple Linear Regression fitting a single linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb) to read the FREE pdf book.
+
+## 06-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature
+This chapter covers simple Linear Regression fitting a single non-linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb) to read the FREE pdf book.
+
+## 07-SLR-FNLF: Simple Linear Regression - Fitting Linear Feature Predictions
+This chapter covers simple Linear Regression fitting a single linear feature prediction within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/07-SLR-FLFP.ipynb) to read the FREE pdf book.
+
+## 08-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature Predictions
+This chapter covers simple Linear Regression fitting a single non-linear feature prediction within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/08-SLR-FNLFP.ipynb) to read the FREE pdf book.
+
+## 09-SLR-MLFP: Simple Linear Regression - Measuring Linear Feature Performance
+This chapter covers simple Linear Regression measuring a single non-linear feature model's performance within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/09-SLR-MLFP.ipynb) to read the FREE pdf book.
+
+## 10-SLR-FMM: Simple Linear Regression - Fitting Multiple Models
+This chapter covers simple Linear Regression fitting multiple models for a single linear feature within the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb) to read the FREE pdf book.
+
 
 ## UNDER DEVELOPMENT
 
