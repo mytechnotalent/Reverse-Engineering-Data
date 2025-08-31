@@ -78,9 +78,14 @@ This chapter covers simple Linear Regression additive features and how they shif
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/11-MLR-AF.ipynb) to read the FREE pdf book.
 
 ## 12-MLR-AF: Multiple Linear Regression - Interactive Features
-This chapter covers simple Linear Regression additive features and how they rotate the best fit line and change the slope.
+This chapter covers multiple Linear Regression additive features and how they rotate the best fit line and change the slope.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/12-MLR-IF.ipynb) to read the FREE pdf book.
+
+## 13-MLR-LR: Multiple Linear Regression - Linear Regression
+This chapter covers multiple Linear Regression by comprehensively modeling with Statsmodels and creating a complete inference engine utilizing the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-MLR-LR.ipynb) to read the FREE pdf book.
 
 ## UNDER DEVELOPMENT
 
