@@ -5,7 +5,7 @@
 <br>
 
 # Reverse Engineering Data
-Master the art of data reverse engineering: discover how to deconstruct, analyze, and rebuild datasets for deeper understanding and actionable insights.
+Master the art of reverse engineering data and discover how to deconstruct, analyze, and rebuild datasets for deeper understanding and actionable insights.
 
 ## Download & Install Conda
 [HERE](https://www.anaconda.com/download/success)
