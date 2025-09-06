@@ -1,0 +1,132 @@
+Syllabus: Data Science with GitHub Notebooks
+
+Course Code: DS-101
+Instructor: Your Name
+Email: your.email@example.com
+Office Hours: By appointment
+Classes: Weekly, [Day] [Time]
+Repository: https://github.com/mytechnotalent/Reverse-Engineering-Data
+
+Course Description
+This course introduces students to foundational and advanced Data Science concepts through hands-on GitHub notebooks, focusing on statistical inference, exploratory data analysis, clustering, and regression modeling. Using real-world datasets like Penguins and Cybersecurity Intrusion Detection, students will progress from basic data handling to comprehensive modeling and inference engines.
+
+Prerequisites
+- Basic programming knowledge (Python preferred)
+- Familiarity with the command line
+- High school-level mathematics/statistics
+
+Required Skills and Hardware/Software
+- Python programming (variables, loops, functions, modules)
+- Jupyter notebooks (installation provided)
+- Git and GitHub basics
+- Laptop capable of running Jupyter notebooks (Anaconda or pip)
+- Ability to install libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels
+
+Tools Used
+- JupyterLab/Notebook
+- Python 3.8+
+- Git & GitHub
+- VS Code or any text editor
+- mytechnotalent/Reverse-Engineering-Data notebooks
+
+Curriculum & Chapters
+
+00-CLT: Central Limit Theorem
+This chapter covers the Central Limit Theorem within Data Science.
+-> Click HERE to read the FREE pdf book.
+
+00-Numpy basics
+00-pandas basics
+
+01-EDA: Exploratory Data Analysis
+Extensive exploratory data analysis of the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+02-Clustering: Clustering
+KMeans and PCA clustering utilizing the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+3-SLR-LR: Simple Linear Regression - Linear Relationship
+Simple Linear Regression using a single linear feature within the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+04-SLR-NLR: Simple Linear Regression - Non-Linear Relationship
+Simple Linear Regression using a single non-linear feature within the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+05-SLR-FLF: Simple Linear Regression - Fitting Linear Feature
+Fitting a single linear feature in the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+06-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature
+Fitting a single non-linear feature in the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+07-SLR-FLF: Simple Linear Regression - Fitting Linear Feature Predictions
+Fitting a single linear feature prediction in the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+08-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature Predictions
+Fitting a single non-linear feature prediction in the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+09-SLR-MLFP: Simple Linear Regression - Measuring Linear Feature Performance
+Measuring a single non-linear feature model's performance in the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+10-SLR-FMM: Simple Linear Regression - Fitting Multiple Models
+Fitting multiple models for a single linear feature in the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+11-MLR-AF: Multiple Linear Regression - Additive Features
+Additive features and how they shift the best fit line up or down.
+-> Click HERE to read the FREE pdf book.
+
+12-MLR-IF: Multiple Linear Regression - Interactive Features
+Interactive features and how they rotate the best fit line and change the slope.
+-> Click HERE to read the FREE pdf book.
+
+13-LR: Linear Regression
+Comprehensive modeling with Statsmodels and creating a complete inference engine using the Penguins dataset.
+-> Click HERE to read the FREE pdf book.
+
+14-EDA: Exploratory Data Analysis
+Exploratory data analysis of the Cybersecurity Intrusion Detection dataset.
+-> Click HERE to read the FREE pdf book.
+
+15-LR: Logistic Regression
+Logistic Regression modeling with Statsmodels and building a complete inference engine using the Cybersecurity Intrusion Detection dataset.
+-> Click HERE to read the FREE pdf book.
+
+Grading
+Component      | Weight
+Assignments & Notebooks  | 50%
+Midterm Project          | 20%
+Final Project & Report   | 25%
+Participation            | 5%
+Letter Grades:  A: 92-100 | A-: 90-91 | B+: 87-89 | B: 83-86 | B-: 80-82 | C: 70-79 | F: <70
+
+Assignments & Projects
+- Assignments: Weekly tasks, submitted as GitHub pull requests.
+- Midterm Project: Data analysis mini-project using a provided or approved dataset.
+- Final Project: End-to-end data science project. Teams select a dataset, analyze, model, visualize, and present findings.
+- Participation: In-class/lab activities, peer code reviews, GitHub issues/discussion engagement.
+
+Resources
+- mytechnotalent/Reverse-Engineering-Data (core notebooks)
+- pandas Documentation
+- scikit-learn Tutorials
+- Kaggle Datasets
+- UCI Machine Learning Repository
+
+Academic Integrity
+All work submitted must be your own or your team’s. Cite all sources and code used from outside the course repository. Collaboration is encouraged but plagiarism will not be tolerated.
+
+Disability and Diversity
+Accommodations are available for students with documented needs. Please contact the instructor and university resources as early as possible.
+
+Communication
+- All course communication and announcements will be posted via GitHub issues and discussions.
+- For individual matters, contact the instructor via email.
+
+Welcome to Data Science! All learning and project work will be tracked in the GitHub repository.
