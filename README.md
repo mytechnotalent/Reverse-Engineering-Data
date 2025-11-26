@@ -9,8 +9,7 @@ Master the art of reverse engineering data and discover how to deconstruct, anal
 
 <br>
 
-## Download & Install Conda
-[HERE](https://www.anaconda.com/download/success)
+## Download & Install Conda [HERE](https://www.anaconda.com/download/success)
 
 <br>
 
