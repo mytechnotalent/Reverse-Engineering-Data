@@ -7,8 +7,12 @@
 # Reverse Engineering Data
 Master the art of reverse engineering data and discover how to deconstruct, analyze, and rebuild datasets for deeper understanding and actionable insights.
 
+<br>
+
 ## Download & Install Conda
 [HERE](https://www.anaconda.com/download/success)
+
+<br>
 
 ## Create Conda Environment
 ```bash
@@ -16,6 +20,8 @@ conda create --name prod anaconda
 conda activate prod
 conda update --all
 ```
+
+<br>
 
 ## 00-CLT: Central Limit Theorem
 This chapter covers the Central Limit Theorem within Data Science.
@@ -97,7 +103,7 @@ This chapter covers Logistic Regression by comprehensively modeling with Statsmo
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-LR.ipynb) to read the FREE pdf book.
 
-## UNDER DEVELOPMENT
+<br>
 
-## License
+# License
 [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
