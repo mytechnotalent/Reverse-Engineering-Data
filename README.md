@@ -25,82 +25,82 @@ conda update --all
 ## 00-CLT: Central Limit Theorem
 This chapter covers the Central Limit Theorem within Data Science.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the FREE Jupyter Notebook.
 
 ## 01-EDA: Exploratory Data Analysis
 This chapter covers an extensive exploratory data analysis of the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb) to read the FREE Jupyter Notebook.
 
 ## 02-Clustering: Clustering
 This chapter covers an extensive KMeans and PCA clustering utilizing the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE Jupyter Notebook.
 
 ## 3-SLR-LR: Simple Linear Regression - Linear Relationship
 This chapter covers simple Linear Regression utilizing a single linear feature within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the FREE Jupyter Notebook.
 
 ## 04-SLR-NLR: Simple Linear Regression - Non-Linear Relationship
 This chapter covers simple Linear Regression utilizing a single non-linear feature within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb) to read the FREE Jupyter Notebook.
 
 ## 05-SLR-FLF: Simple Linear Regression - Fitting Linear Feature
 This chapter covers simple Linear Regression fitting a single linear feature within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb) to read the FREE Jupyter Notebook.
 
 ## 06-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature
 This chapter covers simple Linear Regression fitting a single non-linear feature within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb) to read the FREE Jupyter Notebook.
 
 ## 07-SLR-FNLF: Simple Linear Regression - Fitting Linear Feature Predictions
 This chapter covers simple Linear Regression fitting a single linear feature prediction within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/07-SLR-FLFP.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/07-SLR-FLFP.ipynb) to read the FREE Jupyter Notebook.
 
 ## 08-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature Predictions
 This chapter covers simple Linear Regression fitting a single non-linear feature prediction within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/08-SLR-FNLFP.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/08-SLR-FNLFP.ipynb) to read the FREE Jupyter Notebook.
 
 ## 09-SLR-MLFP: Simple Linear Regression - Measuring Linear Feature Performance
 This chapter covers simple Linear Regression measuring a single non-linear feature model's performance within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/09-SLR-MLFP.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/09-SLR-MLFP.ipynb) to read the FREE Jupyter Notebook.
 
 ## 10-SLR-FMM: Simple Linear Regression - Fitting Multiple Models
 This chapter covers simple Linear Regression fitting multiple models for a single linear feature within the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb) to read the FREE Jupyter Notebook.
 
 ## 11-MLR-AF: Multiple Linear Regression - Additive Features
 This chapter covers simple Linear Regression additive features and how they shift the best fit line up or down.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/11-MLR-AF.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/11-MLR-AF.ipynb) to read the FREE Jupyter Notebook.
 
 ## 12-MLR-AF: Multiple Linear Regression - Interactive Features
 This chapter covers multiple Linear Regression additive features and how they rotate the best fit line and change the slope.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/12-MLR-IF.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/12-MLR-IF.ipynb) to read the FREE Jupyter Notebook.
 
 ## 13-LR: Linear Regression
 This chapter covers Linear Regression by comprehensively modeling with Statsmodels and creating a complete inference engine utilizing the Penguins dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb) to read the FREE Jupyter Notebook.
 
 ## 14-EDA: Exploratory Data Analysis
 This chapter covers an extensive exploratory data analysis of the Cybersecurity Intrusion Detection dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-EDA.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-EDA.ipynb) to read the FREE Jupyter Notebook.
 
 ## 15-LR: Logistic Regression
 This chapter covers Logistic Regression by comprehensively modeling with Statsmodels and creating a complete inference engine utilizing the Cybersecurity Intrusion Detection dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-LR.ipynb) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-LR.ipynb) to read the FREE Jupyter Notebook.
 
 <br>
 
