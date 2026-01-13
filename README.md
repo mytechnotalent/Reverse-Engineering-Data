@@ -105,7 +105,7 @@ This chapter covers Logistic Regression by comprehensively modeling with Statsmo
 ## 16-MLP: Multilayer Perceptron
 This chapter covers Multilayer Perceptron by comprehensively modeling with a neural network and creating a complete inference engine utilizing the Iris dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/16-MLP.ipynb)
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/16-MLP.ipynb) to read the FREE Jupyter Notebook.
 
 <br>
 
