@@ -9,7 +9,7 @@ Master the art of reverse engineering data and discover how to deconstruct, anal
 
 <br>
 
-# Todays Tutorial [January 14, 2026]
+# Today's Tutorial [January 14, 2026]
 ## 00-CLT: Central Limit Theorem
 This chapter covers the Central Limit Theorem within Data Science.
 
