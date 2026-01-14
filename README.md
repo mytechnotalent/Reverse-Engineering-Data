@@ -9,6 +9,14 @@ Master the art of reverse engineering data and discover how to deconstruct, anal
 
 <br>
 
+# Todays Tutorial [January 14, 2026]
+## 00-CLT: Central Limit Theorem
+This chapter covers the Central Limit Theorem within Data Science.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the FREE Jupyter Notebook.
+
+<br>
+
 ## Download & Install Conda [HERE](https://www.anaconda.com/download/success)
 
 <br>
