@@ -4,6 +4,14 @@
 
 <br>
 
+# Today's Tutorial [January 16, 2026]
+## Lesson 81: ARM-32 Course 2 (Part 16 - Hacking Hello World)
+This tutorial will discuss hacking hello world.
+
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
+
+<br>
+
 # Reverse Engineering Data
 Master the art of reverse engineering data and discover how to deconstruct, analyze, and rebuild datasets for deeper understanding and actionable insights.
 
