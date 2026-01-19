@@ -17,10 +17,20 @@ Master the art of reverse engineering data and discover how to deconstruct, anal
 
 <br>
 
-## Iris - MLP
-A scalable multi-layer perceptron (MLP) implementation for the Iris dataset, supporting both classification and regression with PyTorch.
+## Social Media Viral Content & Engagement Metrics
+AI/ML modeling and inference engine utilizing the Social Media Viral Content & Engagement Metrics dataset.
 
--> Click [HERE](https://github.com/mytechnotalent/I-MLP) to model and inference utilizing the FREE Jupyter Notebooks.
+-> Click [HERE](https://github.com/mytechnotalent/m-smvcaem) to model and inference utilizing the FREE Jupyter Notebooks.
+
+## E-Commerce Business Analysis (2022–2024)
+AI/ML modeling and inference engine utilizing the E-Commerce Business Analysis (2022–2024) dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/m-ecba22) to model and inference utilizing the FREE Jupyter Notebooks.
+
+## Daily Global Stock Market Indicators
+AI/ML modeling and inference engine utilizing the Daily Global Stock Market Indicators dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/m-dgsmi) to model and inference utilizing the FREE Jupyter Notebooks.
 
 <br>
 
