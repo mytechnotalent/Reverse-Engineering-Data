@@ -4,11 +4,11 @@
 
 <br>
 
-# Today's Tutorial [January 14, 2026]
-## 00-CLT: Central Limit Theorem
-This chapter covers the Central Limit Theorem within Data Science.
+# Today's Tutorial [January 20, 2026]
+## Lesson 85: ARM-32 Course 2 (Part 20 – Character Variables)
+This tutorial will discuss character variables.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the FREE Jupyter Notebook.
+-> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
 
 <br>
 
