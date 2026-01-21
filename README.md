@@ -100,21 +100,6 @@ This chapter covers Linear Regression by comprehensively modeling with Statsmode
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb) to read the FREE Jupyter Notebook.
 
-## 14-EDA: Exploratory Data Analysis
-This chapter covers an extensive exploratory data analysis of the Cybersecurity Intrusion Detection dataset.
-
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-EDA.ipynb) to read the FREE Jupyter Notebook.
-
-## 15-LR: Logistic Regression
-This chapter covers Logistic Regression by comprehensively modeling with Statsmodels and creating a complete inference engine utilizing the Cybersecurity Intrusion Detection dataset.
-
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-LR.ipynb) to read the FREE Jupyter Notebook.
-
-## 16-MLP: Multilayer Perceptron
-This chapter covers Multilayer Perceptron by comprehensively modeling with a neural network and creating a complete inference engine utilizing the Iris dataset.
-
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/16-MLP.ipynb) to read the FREE Jupyter Notebook.
-
 <br>
 
 # License
