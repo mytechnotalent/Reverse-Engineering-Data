@@ -4,20 +4,6 @@
 
 <br>
 
-# ⚡️ New: I am now deconstructing AI.
-**I have launched a new engineering log, [Bits & Neurons](https://mytechnotalent.substack.com), where I apply these reverse engineering principles to Artificial Intelligence.**
-[Subscribe here to see me build and break AI models.](https://mytechnotalent.substack.com)
-
-<br>
-
-# Today's Tutorial [January 23, 2026]
-## Lesson 88: ARM-32 Course 2 (Part 23 – Boolean Variables)
-This tutorial will discuss boolean variables.
-
--> Click [HERE](https://0xinfection.github.io/reversing) to read the FREE ebook.
-
-<br>
-
 # Reverse Engineering Data
 Master the art of reverse engineering data and discover how to deconstruct, analyze, and rebuild datasets for deeper understanding and actionable insights.
 
