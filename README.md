@@ -92,6 +92,11 @@ This chapter covers Linear Regression by comprehensively modeling with Statsmode
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb) to read the FREE Jupyter Notebook.
 
+## 14-MLP: Multilayer Perceptron
+This chapter covers Multilayer Perceptrons by comprehensively exploring and modeling with PyTorch and creating a complete inference engine utilizing the Iris dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-MLP.ipynb) to read the FREE Jupyter Notebook.
+
 <br>
 
 # License
