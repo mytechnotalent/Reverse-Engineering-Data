@@ -91,7 +91,66 @@ This chapter covers multiple Linear Regression additive features and how they ro
 This chapter covers Linear Regression by comprehensively modeling with Statsmodels and creating a complete inference engine utilizing the Penguins dataset.
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb) to read the FREE Jupyter Notebook.
- to read the FREE Jupyter Notebook.
+
+## 14-LR: Logistic Regression
+This chapter covers Logistic Regression by comprehensively modeling with Statsmodels and creating a complete inference engine utilizing the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-LR.ipynb) to read the FREE Jupyter Notebook.
+
+## 15-MLP: Multilayer Perceptron
+This chapter covers a Multilayer Perceptron in PyTorch with a custom Dataset and DataLoader, training, evaluation, and an inference engine utilizing the Penguins dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-MLP.ipynb) to read the FREE Jupyter Notebook.
+
+## 16-CNN: Convolutional Neural Network
+This chapter covers a Convolutional Neural Network in PyTorch with a custom Dataset and DataLoader, training, evaluation, and an inference engine utilizing the Fashion-MNIST dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/16-CNN.ipynb) to read the FREE Jupyter Notebook.
+
+## 17-RNN: Recurrent Neural Network
+This chapter covers a character-level Recurrent Neural Network with an LSTM in PyTorch, training, text generation, and an inference engine utilizing the Tiny Shakespeare dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/17-RNN.ipynb) to read the FREE Jupyter Notebook.
+
+## 18-ATT: Attention
+This chapter covers scaled dot-product attention, causal masking, multi-head attention, and a Transformer block from scratch in PyTorch utilizing the Tiny Shakespeare dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/18-ATT.ipynb) to read the FREE Jupyter Notebook.
+
+## 19-GPT: TinyGPT From Scratch
+This chapter covers building a TinyGPT decoder-only transformer from scratch in PyTorch, including token and positional embeddings, causal multi-head self-attention, feed-forward blocks, residual connections, and text generation, utilizing the Tiny Shakespeare dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/19-GPT.ipynb) to read the FREE Jupyter Notebook.
+
+## 20-REG: Regularization
+This chapter covers regularization in PyTorch with dropout, decoupled weight decay, cosine annealing, and early stopping utilizing the Breast Cancer dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/20-REG.ipynb) to read the FREE Jupyter Notebook.
+
+## 21-EVAL: Model Evaluation
+This chapter covers model evaluation with confusion matrices, precision, recall, F1, ROC and AUC, precision-recall curves, calibration, and threshold tuning utilizing the Breast Cancer dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/21-EVAL.ipynb) to read the FREE Jupyter Notebook.
+
+## 22-AE: Autoencoder
+This chapter covers a fully connected autoencoder in PyTorch for reconstruction, latent space visualization, and anomaly detection utilizing the Fashion-MNIST dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/22-AE.ipynb) to read the FREE Jupyter Notebook.
+
+## 23-GAN: Generative Adversarial Network
+This chapter covers a generative adversarial network in PyTorch with a generator and discriminator for image synthesis utilizing the Fashion-MNIST dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/23-GAN.ipynb) to read the FREE Jupyter Notebook.
+
+## 24-VIT: Vision Transformer
+This chapter covers a Vision Transformer from scratch in PyTorch with patch embedding, a class token, positional embeddings, and transformer encoder blocks utilizing the Fashion-MNIST dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/24-VIT.ipynb) to read the FREE Jupyter Notebook.
+
+## 25-DEPLOY: Model Deployment
+This chapter covers deploying a trained PyTorch model with ONNX export, onnxruntime verification, a reusable inference engine, and a command-line interface utilizing the Fashion-MNIST dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/25-DEPLOY.ipynb) to read the FREE Jupyter Notebook.
 
 <br>
 
