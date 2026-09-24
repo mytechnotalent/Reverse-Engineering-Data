@@ -22,155 +22,172 @@ conda update --all
 
 <br>
 
-## 00-CLT: Central Limit Theorem
-This chapter covers the Central Limit Theorem within Data Science.
+## Repository Structure
+```
+data/      datasets (CSV files, Tiny Shakespeare, downloaded image datasets)
+models/    trained model artifacts (.pt, .onnx, .pkl)
+outputs/   generated outputs such as the Kaggle submission
+*.ipynb    the 30 notebooks, numbered 00 through 29
+```
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the FREE Jupyter Notebook.
+<br>
 
-## 01-EDA: Exploratory Data Analysis
-This chapter covers an extensive exploratory data analysis of the Penguins dataset.
+## Textbook
+The complete course is available as a single PDF: [Reverse-Engineering-Data.pdf](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/textbook/Reverse-Engineering-Data.pdf).
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb) to read the FREE Jupyter Notebook.
+<br>
 
-## 02-Clustering: Clustering
-This chapter covers an extensive KMeans and PCA clustering utilizing the Penguins dataset.
+## Reverse-Engineering-Data Tutorial
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 1: Central Limit Theorem
+This lesson will teach the Central Limit Theorem, the standard error of the mean, and confidence intervals.
 
-## 03-SLR-LR: Simple Linear Regression - Linear Relationship
-This chapter covers simple Linear Regression utilizing a single linear feature within the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/00-CLT.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 2: Penguins Dataset - EDA
+This lesson will teach exploratory data analysis on the Penguins dataset.
 
-## 04-SLR-NLR: Simple Linear Regression - Non-Linear Relationship
-This chapter covers simple Linear Regression utilizing a single non-linear feature within the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/01-EDA.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 3: Penguins Dataset - Clustering
+This lesson will teach KMeans clustering and principal component analysis.
 
-## 05-SLR-FLF: Simple Linear Regression - Fitting Linear Feature
-This chapter covers simple Linear Regression fitting a single linear feature within the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/02-Clustering.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 4: Penguins Dataset Simple Linear Regression - Linear Relationship
+This lesson will teach simple linear regression with a linear relationship.
 
-## 06-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature
-This chapter covers simple Linear Regression fitting a single non-linear feature within the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/03-SLR-LR.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 5: Penguins Dataset Simple Linear Regression - Non-Linear Relationship
+This lesson will teach simple linear regression with a non-linear relationship.
 
-## 07-SLR-FNLF: Simple Linear Regression - Fitting Linear Feature Predictions
-This chapter covers simple Linear Regression fitting a single linear feature prediction within the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/04-SLR-NLR.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/07-SLR-FLFP.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 6: Penguins Dataset Simple Linear Regression - Fitting Linear Feature
+This lesson will teach fitting a linear feature.
 
-## 08-SLR-FNLF: Simple Linear Regression - Fitting Non-Linear Feature Predictions
-This chapter covers simple Linear Regression fitting a single non-linear feature prediction within the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/05-SLR-FLF.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/08-SLR-FNLFP.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 7: Penguins Dataset Simple Linear Regression - Fitting Non-Linear Feature
+This lesson will teach fitting a non-linear feature.
 
-## 09-SLR-MLFP: Simple Linear Regression - Measuring Linear Feature Performance
-This chapter covers simple Linear Regression measuring a single non-linear feature model's performance within the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/06-SLR-FNLF.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/09-SLR-MLFP.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 8: Penguins Dataset Simple Linear Regression - Fitting Linear Feature Predictions
+This lesson will teach fitting linear feature predictions.
 
-## 10-SLR-FMM: Simple Linear Regression - Fitting Multiple Models
-This chapter covers simple Linear Regression fitting multiple models for a single linear feature within the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/07-SLR-FLFP.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 9: Penguins Dataset Simple Linear Regression - Fitting Non-Linear Feature Predictions
+This lesson will teach fitting non-linear feature predictions.
 
-## 11-MLR-AF: Multiple Linear Regression - Additive Features
-This chapter covers simple Linear Regression additive features and how they shift the best fit line up or down.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/08-SLR-FNLFP.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/11-MLR-AF.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 10: Penguins Dataset Simple Linear Regression - Measuring Linear Feature Performance
+This lesson will teach measuring linear feature performance.
 
-## 12-MLR-AF: Multiple Linear Regression - Interactive Features
-This chapter covers multiple Linear Regression additive features and how they rotate the best fit line and change the slope.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/09-SLR-MLFP.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/12-MLR-IF.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 11: Penguins Dataset Simple Linear Regression - Fitting Multiple Models
+This lesson will teach fitting multiple models.
 
-## 13-LR: Linear Regression
-This chapter covers Linear Regression by comprehensively modeling with Statsmodels and creating a complete inference engine utilizing the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/10-SLR-FMM.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 12: Multiple Linear Regression - Additive Features
+This lesson will teach multiple linear regression with additive features.
 
-## 14-LR: Logistic Regression
-This chapter covers Logistic Regression by comprehensively modeling with Statsmodels and creating a complete inference engine utilizing the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/11-MLR-AF.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-LR.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 13: Multiple Linear Regression - Interactive Features
+This lesson will teach multiple linear regression with interactive features.
 
-## 15-MLP: Multilayer Perceptron
-This chapter covers a Multilayer Perceptron in PyTorch with a custom Dataset and DataLoader, training, evaluation, and an inference engine utilizing the Penguins dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/12-MLR-IF.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-MLP.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 14: Penguins Dataset - Linear Regression
+This lesson will teach linear regression, cross-validation, and a complete inference engine.
 
-## 16-CNN: Convolutional Neural Network
-This chapter covers a Convolutional Neural Network in PyTorch with a custom Dataset and DataLoader, training, evaluation, and an inference engine utilizing the Fashion-MNIST dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/13-LR.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/16-CNN.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 15: Penguins Dataset - Logistic Regression
+This lesson will teach logistic regression, ROC, and AUC.
 
-## 17-RNN: Recurrent Neural Network
-This chapter covers a character-level Recurrent Neural Network with an LSTM in PyTorch, training, text generation, and an inference engine utilizing the Tiny Shakespeare dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/14-LR.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/17-RNN.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 16: Penguins Dataset - MLP
+This lesson will teach a multilayer perceptron in PyTorch.
 
-## 18-ATT: Attention
-This chapter covers scaled dot-product attention, causal masking, multi-head attention, and a Transformer block from scratch in PyTorch utilizing the Tiny Shakespeare dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/15-MLP.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/18-ATT.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 17: Fashion-MNIST Dataset - CNN
+This lesson will teach a convolutional neural network on Fashion-MNIST.
 
-## 19-GPT: TinyGPT From Scratch
-This chapter covers building a TinyGPT decoder-only transformer from scratch in PyTorch, including token and positional embeddings, causal multi-head self-attention, feed-forward blocks, residual connections, and text generation, utilizing the Tiny Shakespeare dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/16-CNN.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/19-GPT.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 18: Tiny Shakespeare Dataset - RNN
+This lesson will teach a recurrent neural network on Tiny Shakespeare.
 
-## 20-REG: Regularization
-This chapter covers regularization in PyTorch with dropout, decoupled weight decay, cosine annealing, and early stopping utilizing the Breast Cancer dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/17-RNN.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/20-REG.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 19: Tiny Shakespeare Dataset - Attention
+This lesson will teach attention and a transformer block from scratch.
 
-## 21-EVAL: Model Evaluation
-This chapter covers model evaluation with confusion matrices, precision, recall, F1, ROC and AUC, precision-recall curves, calibration, and threshold tuning utilizing the Breast Cancer dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/18-ATT.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/21-EVAL.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 20: Tiny Shakespeare Dataset - TinyGPT From Scratch
+This lesson will teach building TinyGPT from scratch.
 
-## 22-AE: Autoencoder
-This chapter covers a fully connected autoencoder in PyTorch for reconstruction, latent space visualization, and anomaly detection utilizing the Fashion-MNIST dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/19-GPT.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/22-AE.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 21: Breast Cancer Dataset - Regularization
+This lesson will teach regularization and early stopping.
 
-## 23-GAN: Generative Adversarial Network
-This chapter covers a generative adversarial network in PyTorch with a generator and discriminator for image synthesis utilizing the Fashion-MNIST dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/20-REG.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/23-GAN.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 22: Breast Cancer Dataset - Model Evaluation
+This lesson will teach model evaluation, calibration, and threshold tuning.
 
-## 24-VIT: Vision Transformer
-This chapter covers a Vision Transformer from scratch in PyTorch with patch embedding, a class token, positional embeddings, and transformer encoder blocks utilizing the Fashion-MNIST dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/21-EVAL.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/24-VIT.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 23: Fashion-MNIST Dataset - Autoencoder
+This lesson will teach an autoencoder, latent space, and anomaly detection.
 
-## 25-DEPLOY: Model Deployment
-This chapter covers deploying a trained PyTorch model with ONNX export, onnxruntime verification, a reusable inference engine, and a command-line interface utilizing the Fashion-MNIST dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/22-AE.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/25-DEPLOY.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 24: Fashion-MNIST Dataset - GAN
+This lesson will teach a generative adversarial network.
 
-## 26-SEG: Semantic Segmentation
-This chapter covers a U-Net for semantic segmentation in PyTorch with pixel accuracy, mask visualization, and an inference engine utilizing the Oxford-IIIT Pet dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/23-GAN.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/26-SEG.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 25: Fashion-MNIST Dataset - Vision Transformer
+This lesson will teach a vision transformer from scratch.
 
-## 27-DRL: Deep Q-Network
-This chapter covers a Deep Q-Network in PyTorch with an experience replay buffer, a target network, epsilon-greedy exploration, and an evaluation loop utilizing the CartPole environment.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/24-VIT.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/27-DRL.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 26: Fashion-MNIST Dataset - Model Deployment
+This lesson will teach model deployment with ONNX and a command-line interface.
 
-## 28-LLM: Fine-Tuning a Pretrained LLM
-This chapter covers fine-tuning a pretrained DistilGPT-2 language model with Hugging Face Transformers, including tokenization, block datasets, training, and text generation, utilizing the Tiny Shakespeare dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/25-DEPLOY.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/28-LLM.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 27: Oxford-IIIT Pet Dataset - Semantic Segmentation
+This lesson will teach U-Net semantic segmentation.
 
-## 29-KAGGLE: Kaggle Project - EDA and Binary Classifier
-This chapter covers creating a Kaggle project from scratch, from account and API token to dataset download, exploratory data analysis, feature engineering, a logistic regression baseline, a PyTorch binary classifier, and a Kaggle submission, utilizing the Titanic dataset.
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/26-SEG.ipynb) to read the lesson and see the code.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/29-KAGGLE.ipynb) to read the FREE Jupyter Notebook.
+### Chapter 28: CartPole Environment - Deep Q-Network
+This lesson will teach a deep Q-network on CartPole.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/27-DRL.ipynb) to read the lesson and see the code.
+
+### Chapter 29: Tiny Shakespeare Dataset - Fine-Tuning a Pretrained LLM
+This lesson will teach fine-tuning a pretrained language model.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/28-LLM.ipynb) to read the lesson and see the code.
+
+### Chapter 30: Kaggle Titanic Dataset - EDA and Binary Classifier
+This lesson will teach creating a Kaggle project from scratch with EDA and a binary classifier.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/29-KAGGLE.ipynb) to read the lesson and see the code.
 
 <br>
 

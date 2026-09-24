@@ -207,11 +207,8 @@ marimo/_lsp/
 __marimo__/
 
 # Reverse-Engineering-Data artifacts
-data/
-*.pt
-*.onnx
-*.pkl
-*.pth
-tinyshakespeare.txt
-distilgpt2_shakespeare/
+data/FashionMNIST/
+data/oxford-iiit-pet/
+models/distilgpt2_shakespeare/
 runs.jsonl
+.ipynb_checkpoints/
