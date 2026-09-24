@@ -167,6 +167,11 @@ This chapter covers fine-tuning a pretrained DistilGPT-2 language model with Hug
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/28-LLM.ipynb) to read the FREE Jupyter Notebook.
 
+## 29-KAGGLE: Kaggle Project - EDA and Binary Classifier
+This chapter covers creating a Kaggle project from scratch, from account and API token to dataset download, exploratory data analysis, feature engineering, a logistic regression baseline, a PyTorch binary classifier, and a Kaggle submission, utilizing the Titanic dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/29-KAGGLE.ipynb) to read the FREE Jupyter Notebook.
+
 <br>
 
 # License
