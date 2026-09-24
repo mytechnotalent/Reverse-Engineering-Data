@@ -152,6 +152,21 @@ This chapter covers deploying a trained PyTorch model with ONNX export, onnxrunt
 
 -> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/25-DEPLOY.ipynb) to read the FREE Jupyter Notebook.
 
+## 26-SEG: Semantic Segmentation
+This chapter covers a U-Net for semantic segmentation in PyTorch with pixel accuracy, mask visualization, and an inference engine utilizing the Oxford-IIIT Pet dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/26-SEG.ipynb) to read the FREE Jupyter Notebook.
+
+## 27-DRL: Deep Q-Network
+This chapter covers a Deep Q-Network in PyTorch with an experience replay buffer, a target network, epsilon-greedy exploration, and an evaluation loop utilizing the CartPole environment.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/27-DRL.ipynb) to read the FREE Jupyter Notebook.
+
+## 28-LLM: Fine-Tuning a Pretrained LLM
+This chapter covers fine-tuning a pretrained DistilGPT-2 language model with Hugging Face Transformers, including tokenization, block datasets, training, and text generation, utilizing the Tiny Shakespeare dataset.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering-Data/blob/main/28-LLM.ipynb) to read the FREE Jupyter Notebook.
+
 <br>
 
 # License
